@@ -1,3 +1,6 @@
+things to work upon:
+1: resolve github links
+2: add skills sections
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c174d3c1-06b1-402e-92c9-20e30f7921dd/deploy-status)](https://app.netlify.com/sites/rachitt-shah/deploys)
 <br>
